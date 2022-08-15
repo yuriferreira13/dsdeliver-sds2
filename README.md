@@ -10,6 +10,7 @@ Voce pode ver esta aplicação funcionando em tempo real por aqui: https://yurid
 - Java
 - Spring Boot
 - JPA / Hibernate
+- Swagger
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
